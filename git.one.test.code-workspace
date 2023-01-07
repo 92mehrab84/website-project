@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../css liva class/git.one.test"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "website project"
+  }
+}
